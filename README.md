@@ -21,6 +21,10 @@ The account created this way probably will get banned in an instant but it works
 
 ![test video](https://user-images.githubusercontent.com/110940123/184603909-73c7baa3-c247-4151-bfb6-2472a5d7863c.gif)
 
+# Why I Did This Project
+
+For me, opening an account is a bit of a challenge(especially when it asks us to make a strong password), so I decided to make an account opening bot. 
+
 
 # Thanks 
 
